@@ -1,0 +1,12 @@
+div {
+    background-color: darkgrey;
+    height: 300px;
+    width: 200px;
+    border-radius: 10%;
+    overflow: hidden;
+    background-image: url(https://scontent.fpnh5-1.fna.fbcdn.net/v/t39.30808-6/453239788_370247742769478_8119669937527669561_n.jpg?stp=dst-jpg_p526x296&_nc_cat=110&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeHkbiQGsJCK2nFyMzvQobBp_4mXWpvs2zz_iZdam-zbPGaBCH1x7AXYhD88VPYgj7D4YT0Db1_UoF80oZovSw3m&_nc_ohc=hnEnZqmYmPEQ7kNvgGRMR3H&_nc_ht=scontent.fpnh5-1.fna&oh=00_AYBFWlSOop0eYI4u8_WFU0v5igNxaSIM6iDoiicMjDWwEg&oe=66AEC41B);
+    background-size: cover;
+}
+
+
+
